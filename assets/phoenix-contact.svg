@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 220" role="img" aria-labelledby="title desc">
+  <title id="title">Phoenix Contact</title>
+  <desc id="desc">Phoenix Contact styled logo for the Aneax Automation website.</desc>
+  <rect width="720" height="220" rx="24" fill="#ffffff"/>
+  <rect x="54" y="52" width="612" height="116" rx="10" fill="#12824c"/>
+  <path d="M102 88c34-25 73-25 107 0 35 25 75 25 110 0 35-25 75-25 110 0 35 25 75 25 110 0" fill="none" stroke="#ffffff" stroke-width="16" stroke-linecap="round"/>
+  <path d="M102 126c34-25 73-25 107 0 35 25 75 25 110 0 35-25 75-25 110 0 35 25 75 25 110 0" fill="none" stroke="#ffffff" stroke-width="16" stroke-linecap="round"/>
+  <text x="96" y="150" fill="#ffffff" font-family="Arial Black, Arial, Helvetica, sans-serif" font-size="43" font-weight="900" letter-spacing="0">PHOENIX CONTACT</text>
+</svg>
