@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 220" role="img" aria-labelledby="title desc">
+  <title id="title">Belden</title>
+  <desc id="desc">Belden styled wordmark for the Aneax Automation website.</desc>
+  <rect width="640" height="220" rx="24" fill="#ffffff"/>
+  <path d="M86 56h112c41 0 66 19 66 52 0 19-9 34-27 44 24 9 36 26 36 50 0 38-28 60-75 60H86z" fill="#00539b" transform="scale(.75) translate(0 9)"/>
+  <text x="170" y="138" fill="#00539b" font-family="Arial Black, Arial, Helvetica, sans-serif" font-size="84" font-weight="900" letter-spacing="0">BELDEN</text>
+  <path d="M107 88h44c22 0 34 9 34 27s-12 27-34 27h-44zm0 75h53c24 0 37 10 37 30 0 21-13 31-38 31h-52z" fill="#ffffff" transform="scale(.75) translate(0 9)"/>
+</svg>

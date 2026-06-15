@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 220" role="img" aria-labelledby="title desc">
+  <title id="title">SBEE Cables</title>
+  <desc id="desc">SBEE Cables styled wordmark for the Aneax Automation website.</desc>
+  <rect width="640" height="220" rx="24" fill="#ffffff"/>
+  <rect x="72" y="48" width="496" height="124" rx="20" fill="#d93410"/>
+  <rect x="84" y="60" width="472" height="100" rx="14" fill="none" stroke="#ffffff" stroke-width="12"/>
+  <path d="M126 80h74l-38 32 40 28h-78l34-28z" fill="#ffffff"/>
+  <text x="224" y="122" fill="#ffffff" font-family="Georgia, 'Times New Roman', serif" font-size="74" font-weight="800" letter-spacing="0">SBEE</text>
+  <rect x="345" y="126" width="142" height="28" rx="7" fill="#ffffff"/>
+  <text x="359" y="148" fill="#23302b" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="900" letter-spacing="0">CABLES</text>
+  <circle cx="526" cy="78" r="10" fill="none" stroke="#ffffff" stroke-width="3"/>
+  <path d="M522 83V73h6c4 0 6 2 6 5 0 2-1 4-3 5l4 6h-5l-3-5h-1v5z" fill="#ffffff" transform="scale(.72) translate(207 31)"/>
+</svg>
